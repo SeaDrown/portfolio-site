@@ -1,25 +1,37 @@
 h1 {
+    font-family: "Roboto", sans-serif;
     font-size: xxx-large;
     font-weight: 700;
+    color: white;
+    margin: 0px;
 }
 
 h2 {
     font-size: xx-large;
     font-style: italic;
+    color: white;
 }
 
 h3 {
     font-size: x-large;
     text-decoration: underline;
+    color: white;
 }
 
 body {
     background-color: rgb(40, 40, 40);
     margin: 0px;
+    color: white;
 }
 
 main {
     margin: 32px;
+}
+
+p {
+    font-family: "Roboto", sans-serif;
+    color: white;
+    margin: 0px;
 }
 
 .navigation_bar ul {
